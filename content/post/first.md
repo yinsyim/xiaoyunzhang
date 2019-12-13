@@ -1,5 +1,6 @@
 ---
 title: "小云张的25岁生日礼物"
+featured_image: '/images/first.jpg'
 date: 2020-1-13T00:00:00+08:00
 draft: false
 comments: true
