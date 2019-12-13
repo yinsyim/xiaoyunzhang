@@ -1,5 +1,5 @@
 ---
-title: "小云张的博客"
+title: "XiaoyunZhang's Blog"
 featured_image: '/images/home_page.jpg'
-description: "欢迎来玩呀~"
+description: ""
 ---

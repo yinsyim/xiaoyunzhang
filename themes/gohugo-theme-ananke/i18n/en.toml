@@ -1,43 +1,32 @@
 [more]
-# other = "More"
-other = "更多"
+other = "More"
 
 [allTitle]
-# other = "All {{.Title }}"
-other = "所有{{.Title }}"
+other = "All {{.Title }}"
 
 [recentTitle]
-# other = "Recent {{.Title }}"
-other = "最近的{{.Title }}"
+other = "Recent {{.Title }}"
 
 [readMore]
-# other = "read more"
-other = "更多"
+other = "read more"
 
 [whatsInThis]
-# other = "What's in this {{ .Type }}"
-other = "什么是{{ .Type }}"
+other = "What's in this {{ .Type }}"
 
 [related]
-# other = "Related"
-other = "相关"
+other = "Related"
 
 [yourName]
-# other = "Your Name"
-other = "你的名字"
+other = "Your Name"
 
 [emailAddress]
-# other = "Email Address"
-other = "邮箱"
+other = "Email Address"
 
 [message]
-# other = "Message"
-other = "消息"
+other = "Message"
 
 [emailRequiredNote]
-# other = "An email address is required."
-other = "请填写邮箱"
+other = "An email address is required."
 
 [send]
-# other = "Send"
-other = "已发送"
+other = "Send"
