@@ -1,5 +1,6 @@
 title = "XiaoyunZhang's Blog"
-baseURL = "https://yinsyim.github.io/xiaoyunzhang.github.io/"
+# baseURL = "https://yinsyim.github.io/xiaoyunzhang.github.io/"
+baseURL = "http://192.168.40.128/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
