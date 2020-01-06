@@ -13,3 +13,4 @@ share: true
 {{< figure src="/images/ysytest/gouzi1.jpg" >}}
 {{< figure src="/images/ysytest/gouzi2.jpg" >}}
 {{< figure src="/images/ysytest/gouzi3.jpg" >}}
+
