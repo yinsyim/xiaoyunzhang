@@ -10,7 +10,6 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 12 
-googleAnalytics = ""
 enableRobotsTXT = true
 disqusShortname = "Danny"
 googleAnalytics = "UA-156063131-1"

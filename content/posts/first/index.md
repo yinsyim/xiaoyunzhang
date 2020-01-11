@@ -20,11 +20,12 @@ toc: false
 {{< figure src="gouzi1.jpg" >}}
 
 ### Cheese
-{{< figure src="gouzi2-2.jpg" >}}
+{{< figure src="gouzi2.jpg" >}}
 
 ### Sleeping
 {{< figure src="gouzi3.jpg" >}}
 
 ### haha
 
-{{< figure src="ysytest3.jpg" >}}
+{{< figure src="haha.gif" >}}
+
