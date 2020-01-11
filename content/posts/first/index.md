@@ -25,7 +25,4 @@ toc: false
 ### Sleeping
 {{< figure src="gouzi3.jpg" >}}
 
-### haha
-
-{{< figure src="haha.gif" >}}
 

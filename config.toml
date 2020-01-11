@@ -1,7 +1,7 @@
 title = "XiaoyunZhang's Blog"
 # baseURL = "https://yinsyim.github.io/xiaoyunzhang.github.io/"
 # baseURL = "http://74.120.172.60/"
-baseURL = "http://192.168.40.128/"
+baseURL = "http://www.xiaoyunzhang.cn/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
@@ -11,7 +11,6 @@ DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 12 
 enableRobotsTXT = true
-disqusShortname = "Danny"
 googleAnalytics = "UA-156063131-1"
 
 [sitemap]
